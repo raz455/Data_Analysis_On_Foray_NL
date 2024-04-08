@@ -16,13 +16,15 @@ This repository contains the code and documentation for analyzing fungal diversi
    
 
 ## Dataset Exploration & Cleaning
-
-- Load and assess the dataset structure and quality.
-- Filter out irrelevant columns and retain those related to fungal diversity.
-- Handle missing values appropriately.
 <a href="https://nlmushrooms.ca/">
   <img align="right" width="100" height="100" src="https://nlmushrooms.ca/_wp_generated/wp872fe8a4_05_06.jpg">
 </a>
+
+- Load and assess the dataset structure and quality. 
+- Filter out irrelevant columns and retain those related to fungal diversity.
+- Handle missing values appropriately.
+
+
 ## Data Visualization
 
 - Create scatter plots of latitude and longitude to visualize geographical distribution.
